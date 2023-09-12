@@ -5,21 +5,11 @@ Lecture 1: Introduction to Functional Genomics
 
 Overview:
 
-- Introduction to genomics and functional genomics.
-- Historical context and significance.
+- Introduction to functional genomics: key components and objectives;  
+- Common study types & application;  
 - Basic concepts of gene expression and regulation.
 
-Key Topics:
-
-- Genomes and Genomic Sequencing
-  - The Human Genome Project and its impact.
-  - Genome sequencing technologies (e.g., Sanger sequencing, next-generation sequencing).
-- Gene Expression and Regulation
-  - Transcription and translation processes.
-  - Regulation of gene expression (transcription factors, epigenetics).
-- The Repeatome
-  - Introduction to repetitive sequences in the genome.
-  - Significance and roles of repetitive elements.
+Presentation: https://docs.google.com/presentation/d/1Y-gbZOjS8rtOJa5VdbKPaZi-XI-uKoJpwOV7fbzvqgY/edit#slide=id.g27c0a61da1b_0_15  
 
 Lecture 2: Techniques in Functional Genomics
 
@@ -156,12 +146,7 @@ Class 13: Disease Genomics Case Study (Duration: 90 minutes)
 - Activity: Assign a specific disease (e.g., Alzheimer's) to each student/group and have them research how functional genomics has contributed to understanding and treating that disease.
 - Objective: Understand the application of functional genomics in disease research.
 
-Class 14: Pharmacogenomics Analysis (Duration: 90 minutes)
-
-- Activity: Provide drug-response data and genetic information for a particular drug and have students analyze the data to predict how genetic variations may influence drug responses.
-- Objective: Explore the role of functional genomics in personalized medicine.
-
-Class 15 & 16: Case study
+Class 13 & 16: Case study
 
 Each student presents the chosen article - what was the hypothesis, which methods were used, how these methods work, how researches confirm their hypothesis. Duration of each presentation is 20 minutes.
 
